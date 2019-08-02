@@ -12,3 +12,6 @@ shows how to do if and elif
 
 ### simple-arrays.cpp
 shows how to do simple arrays
+
+### while.cpp
+shows how to do a simple while loop
