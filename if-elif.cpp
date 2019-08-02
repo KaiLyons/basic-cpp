@@ -15,10 +15,10 @@ int main(){
         cout << "Little baby can't drive" << endl;
     }
 
-    if(isNotIntoxicated == true){
-        cout << "Drive away" << endl;
-    } else {
+    if(!isNotIntoxicated){
         cout << "Call a taxi" << endl;
+    } else {
+        cout << "Drive away" << endl;
     }
     
 }
